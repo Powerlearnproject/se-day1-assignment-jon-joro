@@ -22,6 +22,8 @@ DevOps Integration (2010s): The rise of DevOps brought together development and 
 Microservices Architecture (2010s): This architectural style, promoting the design of software as a collection of loosely coupled services, enhanced scalability and flexibility, allowing for easier updates and maintenance of complex systems.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+
 **Answer**:
   Requirements: Collecting and documenting what the user needs.
 Design: Planning how the software will look and work.
@@ -40,6 +42,8 @@ Deployment: Launching the software for users.
 Maintenance: Fixing issues and updating the software after it's launched.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
 **Answer**:
 Software Developer
 Role: The creator. Responsibilities: Writing and maintaining code, implementing features, and ensuring the software functions as intended. They work closely with the design team to translate requirements into a functional product.
@@ -52,6 +56,8 @@ Role: The organizer. Responsibilities: Overseeing the project from start to fini
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+
 **Answer**: 
 Integrated Development Environments (IDEs):
 IDEs are crucial in software development as they provide a comprehensive suite of tools, such as code editors, debuggers, and compilers, all within a single interface. This streamlines the development process, making coding, testing, and debugging more efficient. For example, Visual Studio Code and IntelliJ IDEA are popular IDEs that help developers manage complex codebases, track errors, and maintain consistency across projects.
@@ -60,6 +66,8 @@ Version Control Systems (VCS):
 VCS is essential for managing changes to code over time, allowing multiple developers to collaborate seamlessly without overwriting each other's work. They also enable tracking of code history, which is vital for debugging and understanding the evolution of a project. Git, often used with GitHub, is a widely-used VCS that helps teams manage their code, track changes, and collaborate effectively.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+
 **Answer**:
 Complex Problem-Solving:
 Software engineers often face complex, abstract problems that require deep analytical thinking.
@@ -82,6 +90,8 @@ Identifying and fixing bugs can be time-consuming and frustrating.
 Strategy: Use systematic debugging techniques, write unit tests, and use version control to track and isolate issues effectively.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+
 **Answer**:
 Unit Testing:
 Definition: Testing individual components or functions of the software in isolation.
@@ -103,6 +113,8 @@ Importance: Validates that the software fulfills user needs and business goals, 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
+
 **Answer**:
 Prompt Engineering:
 Definition: Crafting and refining the inputs or prompts given to AI models to achieve desired outputs. It involves designing questions or instructions in a way that guides the AI to produce accurate, relevant, and useful responses.
@@ -115,6 +127,8 @@ Customization: Allows tailoring of responses to specific needs or contexts, maki
 For example, asking an AI to "Provide a summary of the latest trends in software development" is more effective than a vague prompt like "Tell me about software."
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+
 **Answer**:
 Vague Prompt:
 "Tell me about software."
